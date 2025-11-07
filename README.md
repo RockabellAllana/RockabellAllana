@@ -4,3 +4,5 @@
 - 💞️ I’m looking to meet professionals who have advice for gaining traction in this field
 You'll see most of my profile is pet projects and ideas, I am still learning how to get the most out of GitHub
 If you have any advice for projects I could try to bolster my education and make a bigger impact don't hesitate! 
+
+[![trophy](https://github-profile-trophy.vercel.app/?RockabellAllana=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
