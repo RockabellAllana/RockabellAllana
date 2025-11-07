@@ -1,5 +1,5 @@
-//Header
-[![MasterHead](github-header-banner.png)](https://github.com/RockabellAllana)
+
+![Header](./github-header-banner.png)
 
 - 👋 Hi, I’m @RockabellAllana
 - 👀 I’m interested in learning computer languages and working my way into Software Engineering
@@ -8,5 +8,5 @@
 You'll see most of my profile is pet projects and ideas, I am still learning how to get the most out of GitHub
 If you have any advice for projects I could try to bolster my education and make a bigger impact don't hesitate! 
 
-//Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=RockabellAllana&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
