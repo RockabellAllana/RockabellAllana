@@ -1,5 +1,5 @@
 
-![Header](./github-header-banner.png)
+![Header](./[github-header-banner.png](https://github.com/RockabellAllana/Profile-References/blob/main/github-header-banner.png?raw=true))
 
 - 👋 Hi, I’m @RockabellAllana
 - 👀 I’m interested in learning computer languages and working my way into Software Engineering
